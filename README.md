@@ -1,4 +1,4 @@
-Overview
+*** Overview:
 
 When I started exploring AWS, I wanted a project that would help me connect the dots between its services while giving me practical, resume-worthy experience. That’s when I decided to build a Ride-Sharing App for Unicorns, inspired by the AWS Wild Rydes sample project!
 
