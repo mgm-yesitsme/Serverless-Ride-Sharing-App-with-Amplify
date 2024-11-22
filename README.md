@@ -98,6 +98,26 @@ I faced multiple authorization errors while testing API Gateway.
 Solution: After debugging, I ensured the API Gateway authorizer was correctly configured to use Cognito tokens.
 
 
+** Lessons Learned **
+This project taught me:
+
+- The importance of IAM roles and permissions when working with AWS services.
+- How to debug and resolve issues using AWS logs (CloudWatch, Amplify build logs, etc.).
+- How to design and deploy a fully serverless application using AWS best practices.
+- 
+Future Enhancements
+To make the app even better, I plan to:
+
+- Add real-time ride updates using AWS AppSync.
+- Implement push notifications for ride confirmations using Amazon SNS.
+- Introduce analytics using AWS CloudWatch and AWS Pinpoint.
+- This project was a challenging but rewarding journey, and I’m excited to apply these skills to future projects. Feel free to explore my repository and share your feedback! 🎉
+
+**** Let’s Connect on LinkedIn : linkedin.com/in/godfrey-mesembe-5b33b42ba ****
+
+
+
+
 ## The Application Code
 The application code is here in this repository.
 
