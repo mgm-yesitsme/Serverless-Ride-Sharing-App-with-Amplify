@@ -1,4 +1,5 @@
 Overview
+
 When I started exploring AWS, I wanted a project that would help me connect the dots between its services while giving me practical, resume-worthy experience. That’s when I decided to build a Ride-Sharing App for Unicorns, inspired by the AWS Wild Rydes sample project!
 
 This project combines seven AWS services—Amplify, Cognito, Lambda, IAM, API Gateway, DynamoDB, and GitHub—into a serverless architecture. It was both a rewarding and challenging journey, but it gave me invaluable hands-on experience with AWS.
